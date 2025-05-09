@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi, I'm David Varela 👋
 
-<!--
-**divarelap/divarelap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm passionate about technology and am currently learning Python, AI, and Data Science.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Major**: Computer Science  
+- 📍 **Location**: Guayaquil - Ecuador  
+- 💼 **Current Job/Position**: Operator Senior Computer Center
+- 🌱 **Current Learning**: AI, Python, Data Science, Databases, Git, Github  
+- ⚡ **Fun Fact**: Exercise and eat healthy.
+
+
+[//]: # (## Projects)
+
+[//]: # ()
+[//]: # (Here are some of my favorite repositories and projects:)
+
+[//]: # ()
+[//]: # (- [Project 1]&#40;https://github.com/yourusername/project1&#41; - Brief description of your project.)
+
+
+## Get in Touch
+
+- 📧 [Email](mailto:divarelap@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/david-varela-porro/)
