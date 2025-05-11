@@ -10,6 +10,11 @@ Welcome to my GitHub! I'm passionate about technology and am currently learning 
 - 🌱 **Current Learning**: AI, Python, Data Science, Databases, Git, Github  
 - ⚡ **Fun Fact**: Exercise and eat healthy.
 
+## Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 
 [//]: # (## Projects)
 
